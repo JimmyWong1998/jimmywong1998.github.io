@@ -21,15 +21,10 @@ Junpei Huang is a fourth-year Ph.D. student at the School of Microelectronics, U
 
 He has been deeply involved in the design and testing of the Dadu-Eye deep-learning edge processor, funded by the CAS Strategic Priority Research Program (Category C), as well as the design and validation of the “Zhejiang” Big Chip, supported by National Key Research and Development Program of China.
 
-My research interest includes multi-chiplet memory architecture design, with an emphasis on cache coherence, IO chiplets, and scalable memory subsystems. I have published about 6 papers on chiplet designs and AI accelerators
-<a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener">
-  <img alt="Google Scholar" style="vertical-align:middle;margin:0 6px;"
-       src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white">
-</a>
-and have 2 papers under review.
+My research interest includes multi-chiplet memory architecture design, with an emphasis on cache coherence, IO chiplets, and scalable memory subsystems. I have published about 6 papers on chiplet designs and AI accelerators <a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener"> <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white"> </a> and have 2 papers under reviewed.
 
 
-# 🔥 News (As first author paper related)
+# 🔥 News ((Related to my first-author publications))
 - *2026.03*: &nbsp;🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory received first-round reviews from CAL 2026 (2× Accept, 1× Revise & Resubmit).
 - *2026.02*: &nbsp;🎉🎉 SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency was accepted to CAL 2026.
 - *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
@@ -43,6 +38,8 @@ and have 2 papers under review.
 
 **Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han
 
+</div>
+</div>
 
 - [SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
 - [The big chip: Challenge, model and architecture](https://ieeexplore.ieee.org/abstract/document/11365544), Yinhe Han,Haobo Xu, Meixuan Lu, Haoran Wang, **Junpei Huang**, et.al. **FR 2026**
