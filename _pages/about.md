@@ -29,14 +29,14 @@ My research interest includes multi-chiplet memory architecture design, with an 
 and have 2 papers under review.
 
 # 📖 Educations
-- 2016.09 - 2020.07, University of Electronic Science and Technology of China (UESTC), Chengdu, Sichuan, China
+- 2016.09 - 2020.07, **University of Electronic Science and Technology of China (UESTC)**, Chengdu, Sichuan, China
   - B.Eng in Electronic and Science Technology, GPA: 3.93/4.0, Ranking: Top 10%
-- 2018.09 - 2020.07, University of Birmingham (UoB), Birmingham, United Kingdom
+- 2018.09 - 2020.07, **University of Birmingham (UoB)**, Birmingham, United Kingdom
   - B.Eng in Electronic and Electrical Engineering (2+2 Joint Bachelor's Degree Program), GPA: 4.25/4.25, Ranking: First Class
-- 2020.09 - 2026 (now), University of Science and Technology of China (USTC), Anhui, Hefei, China
+- 2020.09 - 2026 (now), **University of Science and Technology of China (USTC)**, Anhui, Hefei, China
   - PhD Student in Electronic and Science Technology, GPA: 3.88/4.3
 
-# 🔥 News ((Related to my first-author publications))
+# 🔥 News (Related to my first-author publications)
 - *2026.03*: &nbsp;🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory received first-round reviews from CAL 2026 (2× Accept, 1× Revise & Resubmit).
 - *2026.02*: &nbsp;🎉🎉 SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency was accepted to CAL 2026.
 - *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
@@ -72,12 +72,24 @@ and have 2 papers under review.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2021-2024 Postgraduate Scholarships of USTC,
+- 2016-2017, 2017-2018 excellent student scholarships of UESTC,
+- 2018-2020, International Undergraduate Student scholarships of UoB,
+- 2017 Excellent individual in UESTC
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2025.11, Oral talk to present ICCD 2025 accepted paper FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCD 2025</div><img src='images/iccd_pre.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping](https://ieeexplore.ieee.org/abstract/document/11311086/)
+
+**Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han
+- Oral presentation at The University of Texas at Dallas, 11:30 - 13:00 CST, Wednesday, November 12. 
+</div>
+</div>
