@@ -36,7 +36,7 @@ My research interest includes multi-chiplet memory architecture design, with an 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCD 2025</div><img src='images/iccd_pre.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025]
+[FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025](https://ieeexplore.ieee.org/abstract/document/11311086/)
 
 **Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han
 
