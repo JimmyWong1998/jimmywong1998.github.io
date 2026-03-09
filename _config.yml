@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Junpei Huang"
 description              : "This is the homepage for Junpei Huang. "
-repository               : "JimmyWong1998/JunpeiHuang.github.io"
+repository               : "JimmyWong1998/jimmywong1998.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "R6GxAr0AAAAJ&hl=zh-CN"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Junpei Huang"
+  avatar           : "images/me.jpg"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
