@@ -50,7 +50,7 @@ and have 2 papers under review.
 
 [FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping](https://ieeexplore.ieee.org/abstract/document/11311086/)
 
-**Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han
+**Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han. **ICCD 2025**
 - Oral presentation at The University of Texas at Dallas, 11:30 - 13:00 CST, Wednesday, November 12. 
 </div>
 </div>
