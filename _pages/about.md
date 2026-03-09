@@ -64,11 +64,11 @@ and have 2 papers under review.
 
 ## Co-author paper:
 
-- [The big chip: Challenge, model and architecture](https://ieeexplore.ieee.org/abstract/document/11365544), Yinhe Han,Haobo Xu, Meixuan Lu, Haoran Wang, **Junpei Huang**, et.al. **FR 2026**
+- [The big chip: Challenge, model and architecture](https://ieeexplore.ieee.org/abstract/document/11365544), Yinhe Han,Haobo Xu, Meixuan Lu, Haoran Wang, **Junpei Huang**, et.al. **FR 2024**
 - [The Decomposition and Combination Paradigms of Chiplet-Based Integrated Chips](https://ieeexplore.ieee.org/abstract/document/11365544), Fuping Li,Ying Wang, Meixuan Lu, Yutong Zhu, Haoran Wang, Zhun Zhao, **Junpei Huang**, et.al. **ICS 2024**
-- [Toward efficient computing for robotics: From a circuit and system view](https://ieeexplore.ieee.org/abstract/document/11365544), Haobo Xu,Yuxin Yang, Feng Min, **Junpei Huang**, et.al. **TCAS-II 2026**
-- [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **FR 2026**
-- [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al., et.al. **ESL 2026**
+- [Toward efficient computing for robotics: From a circuit and system view](https://ieeexplore.ieee.org/abstract/document/11365544), Haobo Xu,Yuxin Yang, Feng Min, **Junpei Huang**, et.al. **TCAS-II 2022**
+- [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **ESL 2022**
+- [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al., et.al. **JEIT 2025**
 
 
 # 🎖 Honors and Awards
