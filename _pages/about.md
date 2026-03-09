@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# ℹ️ About me
+
 Junpei Huang is a fourth-year Ph.D. student at the School of Microelectronics, University of Science and Technology of China (USTC), advised by Prof. Yinhe Han. He works closely with Prof. Ying Wang and Prof. Yiming Gan. During his Ph.D. studies, he has conducted research at Center for Intelligent Computing Systems, National Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences (CICS@ICT, CAS) as a joint PhD student.
 
 He has been deeply involved in the design and testing of the Dadu-Eye deep-learning edge processor, funded by the CAS Strategic Priority Research Program, as well as the design and validation of the “Zhejiang” Big Chip, supported by National Key Research and Development Program of China.
