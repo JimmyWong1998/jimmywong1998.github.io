@@ -53,7 +53,9 @@ and have 2 papers under review.
 - [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **FR 2026**
 - [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al., et.al. **ESL 2026**
 
-
+-- under review:
+- [HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
+- [SmartFlexIO: A Flexible IO chiplet architecture with Smart memory controller mapping for large-scale chiplet-based system](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Yigeng He, Haobo Xu et al. **TCAD 2026**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
