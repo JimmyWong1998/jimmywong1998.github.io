@@ -21,12 +21,9 @@ Junpei Huang is a fourth-year Ph.D. student at the School of Microelectronics, U
 
 He has been deeply involved in the design and testing of the Dadu-Eye deep-learning edge processor, funded by the CAS Strategic Priority Research Program (Category C), as well as the design and validation of the “Zhejiang” Big Chip, supported by National Key Research and Development Program of China.
 
-My research interest includes multi-chiplet memory architecture design, with an emphasis on cache coherence, IO chiplets, and scalable memory subsystems. I have published about 10 papers on chiplet designs and AI accelerators (
-  You can also use my Google Scholar badge:
+My research interest includes multi-chiplet memory architecture design, with an emphasis on cache coherence, IO chiplets, and scalable memory subsystems. I have published about 10 papers on chiplet designs and AI accelerators ( You can also use my Google Scholar badge:
   <a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white">
-  </a>
-).
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white"> ).
 
 
 # 🔥 News
