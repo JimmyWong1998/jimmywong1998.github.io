@@ -28,6 +28,10 @@ My research interest includes multi-chiplet memory architecture design, with an 
 </a>
 and have 2 papers under review.
 
+# 📖 Educations
+- 2016.09 - 2020.07, University of Electronic Science and Technology of China (UESTC), Chengdu, Sichuan, China
+- 2018.09 - 2020.07, University of Birmingham (UoB), Birmingham, United Kingdom
+- 2020.09 - 2026 (now), University of Science and Technology of China (USTC), Anhui, Hefei, China
 
 # 🔥 News ((Related to my first-author publications))
 - *2026.03*: &nbsp;🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory received first-round reviews from CAL 2026 (2× Accept, 1× Revise & Resubmit).
@@ -44,7 +48,7 @@ and have 2 papers under review.
 [FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping](https://ieeexplore.ieee.org/abstract/document/11311086/)
 
 **Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han
-
+- Oral presentation at The University of Texas at Dallas, 11:30 - 13:00 CST, Wednesday, November 12. 
 </div>
 </div>
 
@@ -67,10 +71,6 @@ and have 2 papers under review.
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
