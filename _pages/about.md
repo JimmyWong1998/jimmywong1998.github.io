@@ -36,7 +36,7 @@ and have 2 papers under review.
 
 # 📝 Publications 
 
-## First-author
+## First-author paper:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCD 2025</div><img src='images/iccd_pre.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,11 +50,12 @@ and have 2 papers under review.
 
 - [SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
 
-## Under review
+## Under review paper:
+
 - [HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
 - [SmartFlexIO: A Flexible IO chiplet architecture with Smart memory controller mapping for large-scale chiplet-based system](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Yigeng He, Haobo Xu et al. **TCAD 2026**
 
-## Co-author
+## Co-author paper:
 
 - [The big chip: Challenge, model and architecture](https://ieeexplore.ieee.org/abstract/document/11365544), Yinhe Han,Haobo Xu, Meixuan Lu, Haoran Wang, **Junpei Huang**, et.al. **FR 2026**
 - [The Decomposition and Combination Paradigms of Chiplet-Based Integrated Chips](https://ieeexplore.ieee.org/abstract/document/11365544), Fuping Li,Ying Wang, Meixuan Lu, Yutong Zhu, Haoran Wang, Zhun Zhao, **Junpei Huang**, et.al. **ICS 2024**
