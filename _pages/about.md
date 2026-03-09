@@ -23,9 +23,8 @@ He has been deeply involved in the design and testing of the Dadu-Eye deep-learn
 
 My research interest includes multi-chiplet memory architecture design, with an emphasis on cache coherence, IO chiplets, and scalable memory subsystems. I have published about 6 papers on chiplet designs and AI accelerators
 <a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener" style="text-decoration:none;border-bottom:0;">
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=googlescholar&logoColor=white&labelColor=f6f6f6&color=9cf&style=flat&label=citations"
-       alt="Google Scholar citations"
-       style="vertical-align:middle;">
+  <img alt="Google Scholar"
+       src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white">
 </a>
 and have 2 papers under review.
 
@@ -50,6 +49,10 @@ and have 2 papers under review.
 - [SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
 - [The big chip: Challenge, model and architecture](https://ieeexplore.ieee.org/abstract/document/11365544), Yinhe Han,Haobo Xu, Meixuan Lu, Haoran Wang, **Junpei Huang**, et.al. **FR 2026**
 - [The Decomposition and Combination Paradigms of Chiplet-Based Integrated Chips](https://ieeexplore.ieee.org/abstract/document/11365544), Fuping Li,Ying Wang, Meixuan Lu, Yutong Zhu, Haoran Wang, Zhun Zhao, **Junpei Huang**, et.al. **ICS 2024**
+- [Toward efficient computing for robotics: From a circuit and system view](https://ieeexplore.ieee.org/abstract/document/11365544), Haobo Xu,Yuxin Yang, Feng Min, **Junpei Huang**, et.al. **TCAS-II 2026**
+- [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **FR 2026**
+- [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al., et.al. **ESL 2026**
+
 
 
 # 🎖 Honors and Awards
