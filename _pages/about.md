@@ -80,11 +80,11 @@ and have 2 papers under review.
 </p>
 <p>
   <!-- TODO: 写 chiplet 的文字说明 -->
-  I work on multi-chiplet memory architectures, focusing on IO chiplets, memory controller mapping, and scalable interconnect/coherence support.
+  I work on multi-chiplet memory architectures, focusing on IO chiplets, memory controller mapping, and scalable interconnect/coherence support. I am also interestin at machine learning-driven optimization/design space exploration(DSE) for hardware.
 </p>
 <ul>
-  <li><!-- TODO --> Key directions: FlexIO / SmartFlexIO / HybridIO</li>
-  <li><!-- TODO --> Methods: gem5 + DRAMSim3 + RL/MCTS search</li>
+  <li><!-- TODO --> Key directions: heuristic-based memory controller mapping / learning-based memory controller mapping / DDR- and CXL- hybrid memory system and scheduling / inter-chiplet prefetching </li>
+  <li><!-- TODO --> Methods: Gem5 + DRAMSim3 + DSNet</li>
 </ul>
 
 <hr style="margin:18px 0; opacity:0.2;">
@@ -99,8 +99,8 @@ and have 2 papers under review.
   I explore efficient AI accelerator architectures, including dataflow/memory hierarchy co-design and system-level optimizations for emerging workloads.
 </p>
 <ul>
-  <li><!-- TODO --> Key directions: NPU/vision chips, throughput/W, on-chip network</li>
-  <li><!-- TODO --> Methods: RTL prototyping + architecture simulation</li>
+  <li><!-- TODO --> Key directions: NPU/vision chips, throughput/W, dataflow</li>
+  <li><!-- TODO --> Methods: architecture simulation + RTL prototyping</li>
 </ul>
 
 # 🎖 Honors and Awards
