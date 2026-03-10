@@ -138,6 +138,9 @@ Dadu-Eye Stereo Vision Chip
 - Tools/Simulators: Vivado, Gem5, Ramulator, MATLAB
 - Language: Mandarin, Cantonese (my hometown is Guangdong), English
 
+# Internships
+- 2021 - 2026, Research Assistant at Center for Intelligent Computing Systems, National Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所-处理器全国重点实验室-智能计算机研究中心)
+- 2024 - 2026, SoC Designing Engineer at Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)
 # 🌍 Visitor Map
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=250&t=tt&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
