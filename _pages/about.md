@@ -91,7 +91,7 @@ and have 2 papers under review.
 
 <h2>🧠 AI Accelerators</h2>
 <p style="text-align:center; margin:10px 0;">
-  <img src="images/topic2" alt="AI Accelerators"
+  <img src="images/topic2.png" alt="AI Accelerators"
        style="max-width:92%; height:auto; border-radius:10px;">
 </p>
 <p>
