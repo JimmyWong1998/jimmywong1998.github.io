@@ -24,4 +24,7 @@ main:
     url: "/#-invited-talks"
 
   - title: "Taped Out Chip Projects"
+    url: "/#-tape-out"
+
+  - title: "Internships"
     url: "/#-internships"
