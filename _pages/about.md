@@ -71,9 +71,9 @@ and have 2 papers under review.
 - [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **ESL 2022**
 - [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al. **JEIT 2025**
 
-<h1>🔬 Research Topics</h1>
+# 🔬 Research Topics
 
-<h2>🧩 Chiplet Systems</h2>
+## 🧩 Chiplet Systems
 <p style="text-align:center; margin:10px 0;">
   <img src="images/topic1.png" alt="Chiplet Systems"
        style="max-width:92%; height:auto; border-radius:10px;">
@@ -89,7 +89,7 @@ and have 2 papers under review.
 
 <hr style="margin:18px 0; opacity:0.2;">
 
-<h2>🧠 AI Accelerators</h2>
+## 🧠 AI Accelerators
 <p style="text-align:center; margin:10px 0;">
   <img src="images/topic2.png" alt="AI Accelerators"
        style="max-width:92%; height:auto; border-radius:10px;">
