@@ -133,6 +133,11 @@ Dadu-Eye Stereo Vision Chip
 </div>
 </div>
 
+# Skill
+- Programming Skill: Python, C/C++, Shell, Verilog, Chisel
+- Tools/Simulators: Vivado, Gem5, Ramulator, MATLAB
+- Language: Mandarin, Cantonese (my hometown is Guangdong), English
+
 # 🌍 Visitor Map
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=250&t=tt&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
