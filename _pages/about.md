@@ -133,12 +133,12 @@ Dadu-Eye Stereo Vision Chip
 </div>
 </div>
 
-# Skill
+# 🛠️ Skill
 - Programming Skill: Python, C/C++, Shell, Verilog, Chisel
 - Tools/Simulators: Vivado, Gem5, Ramulator, MATLAB
 - Language: Mandarin, Cantonese (my hometown is Guangdong), English
 
-# Internships
+# 💼 Internships
 - 2021 - 2026, Research Assistant at Center for Intelligent Computing Systems, National Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所-处理器全国重点实验室-智能计算机研究中心)
 - 2024 - 2026, SoC Designing Engineer at Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)
 # 🌍 Visitor Map
