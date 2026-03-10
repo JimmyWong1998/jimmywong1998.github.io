@@ -123,6 +123,14 @@ Zhejiang Big Chip
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/prj2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dadu-Eye Stereo Vision Chip
+- delivering efficient depth perception with a peak performance of 1 TOPS/W.
+</div>
+</div>
+
 # 🌍 Visitor Map
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=250&t=tt&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
