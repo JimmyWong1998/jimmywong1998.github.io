@@ -120,7 +120,7 @@ and have 2 papers under review.
 
 Zhejiang Big Chip
 - supporting up to 512 cores and 128 chiplets with sub-100 ns inter-chiplet coherence latency.
-- my contributions: Architecture Exploration, High-Level Cache Design, RTL Implementation & Verification.
+- my contributions: architecture exploration, high-level cache design, RTL implementation & verification.
 </div>
 </div>
 
@@ -129,7 +129,7 @@ Zhejiang Big Chip
 
 Dadu-Eye Stereo Vision Chip
 - delivering efficient depth perception with a peak performance of 1 TOPS/W.
-- my contributions: Algorithm & Modeling, Chip Testing.
+- my contributions: algorithm & modeling, chip testing.
 </div>
 </div>
 
