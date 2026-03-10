@@ -120,16 +120,16 @@ and have 2 papers under review.
     <!-- image 1 -->
     <div class="paper-box-image">
       <div>
-        <div class="badge">ICCD 2025</div>
-        <img src="images/prj1.png" alt="Project image 1" width="100%">
+        <div class="badge">CPU chiplet</div>
+        <img src="images/die_cpu.png" alt="Project image 1" width="100%">
       </div>
     </div>
 
     <!-- image 2 -->
     <div class="paper-box-image">
       <div>
-        <div class="badge">Demo</div>
-        <img src="images/prj2.png" alt="Project image 2" width="100%">
+        <div class="badge">IO chiplet</div>
+        <img src="images/die_io.png" alt="Project image 2" width="100%">
       </div>
     </div>
   </div>
