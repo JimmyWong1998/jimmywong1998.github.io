@@ -114,16 +114,13 @@ and have 2 papers under review.
 - 2025.11, Oral talk to present ICCD 2025 accepted paper FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCD 2025</div><img src='images/iccd_pre.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCD 2025</div><img src='images/prj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping](https://ieeexplore.ieee.org/abstract/document/11311086/)
+Zhejiang Big Chip project
+- supporting up to 512 cores and 128 chiplets with sub-100 ns inter-chiplet coherence latency.
 
-
-**Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han
-- Oral presentation at The University of Texas at Dallas, 11:30 - 13:00 CST, Wednesday, November 12. 
 </div>
 </div>
 
