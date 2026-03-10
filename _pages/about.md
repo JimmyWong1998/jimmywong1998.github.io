@@ -61,7 +61,7 @@ and have 2 papers under review.
 ## ✍️ Under review papers:
 
 - [HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
-- [SmartFlexIO: A Flexible IO chiplet architecture with Smart memory controller mapping for large-scale chiplet-based system](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Yigeng He, Haobo Xu et al. **TCAD 2026**
+- [SmartFlexIO: A Flexible IO chiplet architecture with Smart memory controller mapping for large-scale chiplet-based system](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Yigeng He, Ying Li, et al. **TCAD 2026**
 
 ## ✍️ Co-author papers:
 
