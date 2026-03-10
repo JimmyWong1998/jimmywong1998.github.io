@@ -104,11 +104,11 @@ and have 2 papers under review.
 </ul>
 
 # 🎖 Honors and Awards
-- 2021-2024 Postgraduate Scholarships of USTC,
-- 2016-2017, 2017-2018 excellent student scholarships of UESTC,
-- 2018-2020, International Undergraduate Student scholarships of UoB,
+- 2021-2024 Postgraduate Scholarships of USTC
+- 2020 Outstanding Graduates of UESTC
+- 2018-2020, International Undergraduate Student scholarships of UoB
 - 2017 Excellent individual in UESTC
-
+- 2016-2017, 2017-2018 excellent student scholarships of UESTC
 
 # 💬 Invited Talks
 - 2025.11, Oral talk to present ICCD 2025 accepted paper FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping
