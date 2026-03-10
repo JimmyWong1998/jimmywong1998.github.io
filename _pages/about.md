@@ -71,6 +71,49 @@ and have 2 papers under review.
 - [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **ESL 2022**
 - [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al. **JEIT 2025**
 
+# Research Topics
+
+<h1>🔬 Research Topics</h1>
+
+<!-- Topic 1: Chiplet -->
+<h2>🧩 Chiplet Systems</h2>
+<div style="display:flex; gap:18px; align-items:flex-start; flex-wrap:wrap; margin-bottom:18px;">
+  <div style="flex:1; min-width:260px;">
+    <img src="images/chiplet.png" alt="Chiplet Systems" style="width:100%; max-width:520px; height:auto; border-radius:10px;">
+  </div>
+  <div style="flex:1.2; min-width:260px;">
+    <p>
+      <!-- TODO: 写你的 chiplet 研究简介 -->
+      I work on multi-chiplet memory architectures, focusing on IO chiplets, memory controller mapping, and scalable interconnect/coherence support.
+    </p>
+    <ul>
+      <li><!-- TODO --> Key directions: FlexIO / SmartFlexIO / HybridIO</li>
+      <li><!-- TODO --> Methods: gem5 + DRAMSim3 + RL/MCTS search</li>
+      <li><!-- TODO --> Metrics: throughput, latency, energy/EDP</li>
+    </ul>
+  </div>
+</div>
+
+<hr style="margin:18px 0; opacity:0.2;">
+
+<!-- Topic 2: AI Accelerator -->
+<h2>🧠 AI Accelerators</h2>
+<div style="display:flex; gap:18px; align-items:flex-start; flex-wrap:wrap; margin-bottom:18px;">
+  <div style="flex:1; min-width:260px;">
+    <img src="images/ai_accelerator.png" alt="AI Accelerators" style="width:100%; max-width:520px; height:auto; border-radius:10px;">
+  </div>
+  <div style="flex:1.2; min-width:260px;">
+    <p>
+      <!-- TODO: 写你的 AI accelerator 研究简介 -->
+      I explore efficient AI accelerator architectures, including dataflow/memory hierarchy co-design and system-level optimizations for emerging workloads.
+    </p>
+    <ul>
+      <li><!-- TODO --> Key directions: NPU/vision chips, throughput/W, on-chip network</li>
+      <li><!-- TODO --> Methods: RTL prototyping + architecture simulation</li>
+      <li><!-- TODO --> Targets: edge robotics, large-scale AI systems</li>
+    </ul>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - 2021-2024 Postgraduate Scholarships of USTC,
