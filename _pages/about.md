@@ -75,7 +75,7 @@ and have 2 papers under review.
 
 <h2>🧩 Chiplet Systems</h2>
 <p style="text-align:center; margin:10px 0;">
-  <img src="images/chiplet.png" alt="Chiplet Systems"
+  <img src="images/topic1.png" alt="Chiplet Systems"
        style="max-width:92%; height:auto; border-radius:10px;">
 </p>
 <p>
