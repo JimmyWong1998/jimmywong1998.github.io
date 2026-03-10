@@ -115,29 +115,12 @@ and have 2 papers under review.
 
 # 💻 Internships
 
-<div class="paper-box">
-  <div class="paper-box-image-grid">
-    <!-- image 1 -->
-    <div class="paper-box-image">
-      <div>
-        <div class="badge">CPU chiplet</div>
-        <img src="images/die_cpu.png" alt="Project image 1" width="100%">
-      </div>
-    </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='images/iccd_pre.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    <!-- image 2 -->
-    <div class="paper-box-image">
-      <div>
-        <div class="badge">IO chiplet</div>
-        <img src="images/die_io.png" alt="Project image 2" width="100%">
-      </div>
-    </div>
-  </div>
-
-  <div class="paper-box-text" markdown="1">
-    Zhejiang Big Chip project
-    - supporting up to 512 cores and 128 chiplets with sub-100 ns inter-chiplet coherence latency.
-  </div>
+Zhejiang Big Chip
+- supporting up to 512 cores and 128 chiplets with sub-100 ns inter-chiplet coherence latency.
+</div>
 </div>
 
 # 🌍 Visitor Map
