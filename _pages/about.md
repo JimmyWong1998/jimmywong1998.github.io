@@ -37,7 +37,7 @@ and have 2 papers under review.
 - 2020.09 - 2026 (now), **University of Science and Technology of China (USTC)**, Anhui, Hefei, China
   - PhD Student in Electronic and Science Technology, GPA: 3.88/4.3
 
-# 🔥 News (Related to my first-author publications)
+# 🔥 News (Related to my first-author publications) {#news}
 - *2026.03*: &nbsp;🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory received first-round reviews from CAL 2026 (2× Accept, 1× Revise & Resubmit).
 - *2026.02*: &nbsp;🎉🎉 SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency was accepted to CAL 2026.
 - *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
