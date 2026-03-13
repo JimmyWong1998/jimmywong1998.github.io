@@ -115,7 +115,7 @@ and have 2 papers under review.
 
 # 💻 Taped Out Chip Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='images/prj1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='images/' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Zhejiang Big Chip
@@ -124,7 +124,7 @@ Zhejiang Big Chip
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/prj2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dadu-Eye Stereo Vision Chip
