@@ -78,32 +78,7 @@ and have 4 papers under review.
 <article class="paper-card"><div class="paper-title">YUUMI: A Plug-and-Play Integration Architecture for RISC-V CPU-Vector Cores</div><div class="paper-authors">Xiaotong Wei, Bowen Liu, Yiming Gan, Haobo Xu, <span class="me">Junpei Huang</span>, et al.</div><div class="paper-meta"><span class="paper-badge venue">ISCA 2027</span><span class="paper-badge review">Under Review</span></div></article>
 <article class="paper-card"><div class="paper-title">IRV: A Tightly-Coupled Architecture for Out-of-Order RISC-V CPUs and Vector Cores</div><div class="paper-authors">Xiaotong Wei, Yiming Gan, Haobo Xu, <span class="me">Junpei Huang</span>, et al.</div><div class="paper-meta"><span class="paper-badge venue">IEEE ESL 2026</span><span class="paper-badge revision">Major Revision</span></div></article>
 </section>
-## ✍️ First-author papers:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCD 2025</div><img src='images/iccd_pre.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping](https://ieeexplore.ieee.org/abstract/document/11311086/)
-
-**Junpei Huang**, Haobu Xu, Ying Wang, Yinhe Han. **ICCD 2025**
-- Oral presentation at The University of Texas at Dallas, 11:30 - 13:00 CST, Wednesday, November 12. 
-</div>
-</div>
-
-- [SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
-
-## ✍️ Under review papers:
-
-- [HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Haobo Xu, Yiming Gan, et al. **CAL 2026**
-- [SmartFlexIO: A Flexible IO chiplet architecture with Smart memory controller mapping for large-scale chiplet-based system](https://ieeexplore.ieee.org/abstract/document/11365544), **Junpei Huang**, Yigeng He, Ying Li, et al. **TCAD 2026**
-
-## ✍️ Co-author papers:
-
-- [The big chip: Challenge, model and architecture](https://ieeexplore.ieee.org/abstract/document/11365544), Yinhe Han,Haobo Xu, Meixuan Lu, Haoran Wang, **Junpei Huang**, et.al. **FR 2024**
-- [The Decomposition and Combination Paradigms of Chiplet-Based Integrated Chips](https://ieeexplore.ieee.org/abstract/document/11365544), Fuping Li,Ying Wang, Meixuan Lu, Yutong Zhu, Haoran Wang, Zhun Zhao, **Junpei Huang**, et.al. **ICS 2024**
-- [Toward efficient computing for robotics: From a circuit and system view](https://ieeexplore.ieee.org/abstract/document/11365544), Haobo Xu,Yuxin Yang, Feng Min, **Junpei Huang**, et.al. **TCAS-II 2022**
-- [Dadu-SV: Accelerate Stereo Vision Processing on NPU](https://ieeexplore.ieee.org/abstract/document/11365544), Feng Min,Ying Yang, Haobo Xu, **Junpei Huang**, et.al. **ESL 2022**
-- [Space-based Computing Chips: Current Status, Trends and Key Technique](https://ieeexplore.ieee.org/abstract/document/11365544), Xiaotong Wei,Haobo Xu, Chundi Yin, **Junpei Huang**, et.al. **JEIT 2025**
 
 # 🔬 Research Topics
 
