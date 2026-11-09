@@ -38,7 +38,8 @@ and have 4 papers under review.
   - PhD Student in Electronic and Science Technology, GPA: 3.88/4.3
 
 # 🔥 News (Related to my first-author publications)
-- *2026.03*: &nbsp;🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory was accepted to MEJ 2026.
+- *2026.08*: &nbsp;🎉🎉A Scalable I/O-Chiplet Architecture with Learning-Guided Monte Carlo Tree Search for Memory Controller Mapping (extended from FlexIO@ICCD) received a major revision decision from IEEE TCAD.
+- *2026.03*: &nbsp;🎉🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory was accepted to MEJ 2026.
 - *2026.02*: &nbsp;🎉🎉 SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency was accepted to CAL 2026.
 - *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
 
