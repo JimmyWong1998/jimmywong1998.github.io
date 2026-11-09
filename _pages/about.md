@@ -27,7 +27,7 @@ His research interest includes multi-chiplet memory architecture design, with an
 <a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener" style="text-decoration:none;">
   📚
 </a>
-and have 4 papers under review.
+and has 4 papers under review.
 
 # 📖 Educations
 - 2016.09 - 2020.07, **University of Electronic Science and Technology of China (UESTC)**, Chengdu, Sichuan, China
