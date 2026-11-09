@@ -61,7 +61,7 @@ and have 4 papers under review.
 @media(max-width:600px){.paper-card{padding:16px}.paper-title{font-size:1.06em}}
 </style>
 <section class="publication-section">
-<h2>📝 Selected Publications</h2>
+<h2>📋 Selected Publications</h2>
 <article class="paper-card"><div class="paper-title">FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping</div><div class="paper-authors"><span class="me">Junpei Huang</span>, Haobo Xu, Ying Wang, et al.</div><div class="paper-meta"><span class="paper-badge venue">ICCD 2025</span><span class="paper-detail">43rd IEEE International Conference on Computer Design · pp. 674–681 · Oral Presentation, Dallas, USA</span></div></article>
 <article class="paper-card"><div class="paper-title">SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency</div><div class="paper-authors"><span class="me">Junpei Huang</span>, Haobo Xu, Yiming Gan, et al.</div><div class="paper-meta"><span class="paper-badge venue">IEEE CAL 2026</span><span class="paper-detail">IEEE Computer Architecture Letters</span></div></article>
 <article class="paper-card"><div class="paper-title">HybridIO: Enabling Bandwidth-Aware Memory Access Offloading in Multi-Chiplet Systems with CXL-Based Hybrid Memory</div><div class="paper-authors"><span class="me">Junpei Huang</span>, Haobo Xu, Ying Li, et al.</div><div class="paper-meta"><span class="paper-badge venue">MEJ 2026</span><span class="paper-detail">Microelectronics Journal</span></div></article>
