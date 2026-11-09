@@ -43,7 +43,7 @@ and have 4 papers under review.
 - *2026.02*: &nbsp;🎉🎉 SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency was accepted to CAL 2026.
 - *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
 
-# 📝 Publications 
+# 📝 Recent Publications and Under-Review Papers
 <style>
 .publication-section{margin:30px 0}
 .publication-section h2{margin-bottom:20px}
