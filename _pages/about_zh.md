@@ -38,11 +38,14 @@ author_profile: true
 
 黄俊培博士毕业于中国科学技术大学微电子学院，师从[韩银和教授](https://scholar.google.com/citations?user=t40cM-4AAAAJ&hl=zh-CN&oi=sra)，并与[王颖教授](https://scholar.google.com/citations?user=5LoFPSQAAAAJ&hl=zh-CN&oi=ao)、[许浩博副研究员](https://ieeexplore.ieee.org/author/37087137171)和[甘一鸣副研究员](https://scholar.google.com/citations?user=d-1MZhIAAAAJ&hl=zh-CN&oi=ao)保持密切的科研合作。博士期间，他作为联合培养博士生，在中国科学院计算技术研究所处理器全国重点实验室智能计算机研究中心（CICS@ICT, CAS）开展科研工作。
 
-他深度参与了中国科学院战略性先导科技专项支持的“大度”（Dadu-Eye）深度学习边缘处理器的设计与测试，以及国家重点研发计划支持的“之江”大芯片的设计与验证工作。他的研究兴趣主要包括多芯粒存储体系结构设计，重点关注缓存一致性、I/O 芯粒以及可扩展存储子系统。目前，他已在芯粒系统和人工智能加速器相关领域发表约 9 篇学术论文
-<a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener" style="text-decoration:none;">
+**在芯片设计方面**，2020年至2022年，我参与了中国科学院战略性先导科技专项（C类）支持的“大都”（Dadu-Eye）深度学习边缘处理器的建模与测试工作；2022年至2025年，深度参与了国家重点研发计划支持的“大芯片”（Big Chip）多芯粒处理器的设计与验证工作；自2025年起，参与了中科院 GJ 项目支持的8核 RISC-V 天基计算芯片的前端集成工作。
+
+**在科研项目方面**，博士期间，我积极协助导师申报多项科研项目（如国家重点研发计划项目），包括项目预申报书、正式申报书及答辩汇报材料的撰写与完善；同时参与组织和支持芯片第三方现场测试工作，并负责阶段性报告材料的编写。
+
+**在学术研究方面**，我的研究兴趣主要包括多芯粒存储系统体系结构设计，重点关注芯粒系统中的缓存一致性、I/O 芯粒体系结构、可扩展多芯粒存储子系统以及领域专用加速器设计。目前，我已在芯粒系统和人工智能加速器相关领域发表9篇学术论文<a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener" style="text-decoration:none;">
   📚
-</a>
-另有 4 篇论文正在审稿中。
+</a>，另有4篇论文正在审稿中，并拥有1项发明专利申请。
+
 
 # 📖 教育背景
 - 2016.09 - 2020.07, **电子科技大学（UESTC）**，中国四川成都
