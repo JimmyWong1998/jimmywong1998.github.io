@@ -43,6 +43,7 @@ lang: zh
   📚
 </a>，另有4篇论文正在审稿中，并拥有1项发明专利申请。
 
+<span class="anchor" id="educations"></span>
 
 # 📖 教育背景
 - 2016.09 - 2020.07, **电子科技大学（UESTC）**，中国四川成都
@@ -51,6 +52,8 @@ lang: zh
   - 电子与电气工程专业，工学学士（2+2 联合培养双学位项目），GPA：4.25/4.25，学位等级：一等荣誉学位（First Class）
 - 2020.09 - 2026.10, **中国科学技术大学（USTC）**，中国安徽合肥
   - 电子科学与技术专业，工学博士，硕博连读，GPA：3.88/4.3
+  - 
+<span class="anchor" id="news"></span>
 
 # 🔥 科研新闻
 - *2026.08*: &nbsp;🎉🎉 论文《A Scalable I/O-Chiplet Architecture with Learning-Guided Monte Carlo Tree Search for Memory Controller Mapping》（FlexIO@ICCD 的扩展版本）收到 IEEE TCAD 的大修（Major Revision）决定。
@@ -58,6 +61,8 @@ lang: zh
 - *2026.02*: &nbsp;🎉🎉 论文《SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency》被 CAL 2026 接收。
 - *2025.11*: &nbsp;🎉🎉 赴美国得克萨斯州达拉斯参加 ICCD 2025 国际会议，并对论文 FlexIO 进行口头报告（Oral Presentation）。
 - *2025.08*: &nbsp;🎉🎉 论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》被 ICCD 2025 接收。
+
+<span class="anchor" id="publications"></span>
 
 # 📝 近期论文发表情况、在投/审论文与专利
 <style>
@@ -114,6 +119,8 @@ lang: zh
 </article>
 </section>
 
+<span class="anchor" id="research-topics"></span>
+
 # 🔬 研究主题
 
 ## 🧩 芯粒系统
@@ -146,6 +153,8 @@ lang: zh
   <li><!-- TODO --> Methods: architecture simulation + RTL prototyping</li>
 </ul>
 
+<span class="anchor" id="honors-and-awards"></span>
+
 # 🎖 荣誉奖项
 - 2021-2024年，中国科学技术大学研究生学业奖学金
 - 2020年，电子科技大学优秀毕业生
@@ -153,8 +162,12 @@ lang: zh
 - 2017年，电子科技大学优秀个人
 - 2016-2017年、2017-2018年，电子科技大学优秀学生奖学金
 
+<span class="anchor" id="invited-talks"></span>
+
 # 💬 口头汇报
 - 2025.11，在 ICCD 2025 国际会议上对录用论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》进行口头报告（Oral Presentation）。
+
+<span class="anchor" id="taped-out-chip-projects"></span>
 
 # 💻 芯片流片项目
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='/images/图片4.png' alt="sym" width="100%"></div></div>
@@ -175,10 +188,14 @@ Dadu-Eye Stereo Vision Chip
 </div>
 </div>
 
+<span class="anchor" id="taped-out-chip-projects"></span>
+
 # 🛠️ 技能
 - Programming Skill: Python, C/C++, Shell, Verilog, Chisel
 - Tools/Simulators: Vivado, Gem5, Ramulator, MATLAB
 - Language: Mandarin, Cantonese (my hometown is Guangdong), English
+
+<span class="anchor" id="internships"></span>
 
 # 💼 实习经历
 - 2021 - 2026年，中国科学院计算技术研究所处理器全国重点实验室智能计算机研究中心，科研助理
