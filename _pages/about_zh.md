@@ -188,7 +188,7 @@ Dadu-Eye Stereo Vision Chip
 </div>
 </div>
 
-<span class="anchor" id="taped-out-chip-projects"></span>
+<span class="anchor" id="skills"></span>
 
 # 🛠️ 技能
 - Programming Skill: Python, C/C++, Shell, Verilog, Chisel
