@@ -3,6 +3,7 @@ permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
+lang: zh
 ---
 <style>
 .language-switch {
