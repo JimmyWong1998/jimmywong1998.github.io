@@ -81,30 +81,21 @@ and has 4 papers under review.
 <article class="paper-card"><div class="paper-title">IRV: A Tightly-Coupled Architecture for Out-of-Order RISC-V CPUs and Vector Cores</div><div class="paper-authors">Xiaotong Wei, Yiming Gan, Haobo Xu, <span class="me">Junpei Huang</span>, et al.</div><div class="paper-meta"><span class="paper-badge venue">IEEE ESL 2026</span><span class="paper-badge revision">Major Revision</span></div></article>
 </section>
 <h2>📜 Patents</h2>
-
 <article class="paper-card">
   <div class="paper-title">
-    <a href="https://eureka.patsnap.com/patent/CN121455899A"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="color:inherit;text-decoration:none">
-      Silicon Photonic Network for Maintaining Inter-Chiplet Cache Coherence
-    </a>
+    用于维护芯粒间缓存一致性的硅光网络
   </div>
-
   <div class="paper-authors">
-    Co-inventor: <span class="me">Junpei Huang</span>, et al.
+    胡义康、王梦迪、<span class="me">黄俊培</span>、王颖、王郁杰、韩银和
   </div>
-
   <div class="paper-meta">
     <span class="paper-badge venue">CN121455899A</span>
-    <span class="paper-badge review">Published Application</span>
+    <span class="paper-badge review">发明专利申请</span>
     <span class="paper-detail">
-      China Invention Patent · Published February 3, 2026
+      中国 · 2026年2月3日公开
     </span>
   </div>
 </article>
-
 </section>
 
 # 🔬 Research Topics
