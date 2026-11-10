@@ -34,7 +34,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-# ℹ️ About me
+# ℹ️ 自我介绍
 
 黄俊培博士毕业于中国科学技术大学微电子学院，师从[韩银和教授](https://scholar.google.com/citations?user=t40cM-4AAAAJ&hl=zh-CN&oi=sra)，并与[王颖教授](https://scholar.google.com/citations?user=5LoFPSQAAAAJ&hl=zh-CN&oi=ao)、[许浩博副研究员](https://ieeexplore.ieee.org/author/37087137171)和[甘一鸣副研究员](https://scholar.google.com/citations?user=d-1MZhIAAAAJ&hl=zh-CN&oi=ao)保持密切的科研合作。博士期间，他作为联合培养博士生，在中国科学院计算技术研究所处理器全国重点实验室智能计算机研究中心（CICS@ICT, CAS）开展科研工作。
 
@@ -44,7 +44,7 @@ author_profile: true
 </a>
 另有 4 篇论文正在审稿中。
 
-# 📖 Educations
+# 📖 教育背景
 - 2016.09 - 2020.07, **电子科技大学（UESTC）**，中国四川成都
   - 电子科学与技术专业，工学学士，GPA：3.93/4.0，专业排名：前10%
 - 2018.09 - 2020.07, **伯明翰大学（UoB）**，英国伯明翰
@@ -52,14 +52,14 @@ author_profile: true
 - 2020.09 - 2026.10, **中国科学技术大学（USTC）**，中国安徽合肥
   - 电子科学与技术专业，工学博士，GPA：3.88/4.3
 
-# 🔥 News (Related to my first-author publications)
+# 🔥 科研新闻
 - *2026.08*: &nbsp;🎉🎉 论文《A Scalable I/O-Chiplet Architecture with Learning-Guided Monte Carlo Tree Search for Memory Controller Mapping》（FlexIO@ICCD 的扩展版本）收到 IEEE TCAD 的大修（Major Revision）决定。
 - *2026.07*: &nbsp;🎉🎉 论文《HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory》被 MEJ 2026 接收。
 - *2026.02*: &nbsp;🎉🎉 论文《SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency》被 CAL 2026 接收。
 - *2025.11*: &nbsp;🎉🎉 赴美国得克萨斯州达拉斯参加 ICCD 2025 国际会议，并对论文 FlexIO 进行口头报告（Oral Presentation）。
 - *2025.08*: &nbsp;🎉🎉 论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》被 ICCD 2025 接收。
 
-# 📝 Recent Publications and Under-Review Papers
+# 📝 近期论文发表情况、在投/审论文与专利
 <style>
 .publication-section{margin:30px 0}
 .publication-section h2{margin-bottom:20px}
@@ -113,9 +113,9 @@ author_profile: true
 </article>
 </section>
 
-# 🔬 Research Topics
+# 🔬 研究主题
 
-## 🧩 Chiplet Systems
+## 🧩 芯粒系统
 <p style="text-align:center; margin:10px 0;">
   <img src="images/topic1.png" alt="Chiplet Systems"
        style="max-width:92%; height:auto; border-radius:10px;">
@@ -131,7 +131,7 @@ author_profile: true
 
 <hr style="margin:18px 0; opacity:0.2;">
 
-## 🧠 AI Accelerators
+## 🧠 AI加速器
 <p style="text-align:center; margin:10px 0;">
   <img src="images/topic2.png" alt="AI Accelerators"
        style="max-width:92%; height:auto; border-radius:10px;">
@@ -145,18 +145,17 @@ author_profile: true
   <li><!-- TODO --> Methods: architecture simulation + RTL prototyping</li>
 </ul>
 
-# 🎖 Honors and Awards
+# 🎖 荣誉奖项
 - 2021-2024年，中国科学技术大学研究生学业奖学金
 - 2020年，电子科技大学优秀毕业生
 - 2018-2020年，伯明翰大学国际本科生奖学金
 - 2017年，电子科技大学优秀个人
 - 2016-2017年、2017-2018年，电子科技大学优秀学生奖学金
 
-# 💬 Invited Talks
+# 💬 口头汇报
 - 2025.11，在 ICCD 2025 国际会议上对录用论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》进行口头报告（Oral Presentation）。
 
-# 💻 Taped Out Chip Projects
-
+# 💻 芯片流片项目
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='images/prj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -175,14 +174,14 @@ Dadu-Eye Stereo Vision Chip
 </div>
 </div>
 
-# 🛠️ Skill
+# 🛠️ 技能
 - Programming Skill: Python, C/C++, Shell, Verilog, Chisel
 - Tools/Simulators: Vivado, Gem5, Ramulator, MATLAB
 - Language: Mandarin, Cantonese (my hometown is Guangdong), English
 
-# 💼 Internships
+# 💼 实习经历
 - 2021 - 2026年，中国科学院计算技术研究所处理器全国重点实验室智能计算机研究中心，科研助理
 - 2024 - 2026年，北京市开源芯片研究院（BOSC），SoC 设计工程师
-# 🌍 Visitor Map
+# 🌍 访问地图
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=250&t=tt&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
