@@ -163,15 +163,8 @@ and has 4 papers under review.
 
 # 💻 Taped Out Chip Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CPU chiplet and IO chiplet</div>
-      <img src='images/图片1.png' alt="sym"
-           style="width:60%; height:60%; display:block; margin:auto;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/图片2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 Zhejiang Big Chip
 - supporting up to 512 cores and 128 chiplets with sub-100 ns inter-chiplet coherence latency.
@@ -179,7 +172,7 @@ Zhejiang Big Chip
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/prj2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/图片3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dadu-Eye Stereo Vision Chip
