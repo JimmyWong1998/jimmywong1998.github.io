@@ -155,7 +155,7 @@ author_profile: true
 - 2016-2017年、2017-2018年，电子科技大学优秀学生奖学金
 
 # 💬 Invited Talks
-- 2025.11, Oral talk to present ICCD 2025 accepted paper FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping
+- 2025.11，在 ICCD 2025 国际会议上对录用论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》进行口头报告（Oral Presentation）。
 
 # 💻 Taped Out Chip Projects
 
@@ -163,8 +163,8 @@ author_profile: true
 <div class='paper-box-text' markdown="1">
 
 Zhejiang Big Chip
-- supporting up to 512 cores and 128 chiplets with sub-100 ns inter-chiplet coherence latency.
-- my contributions: architecture exploration, high-level cache design, RTL implementation & verification.
+- 支持最多 512 个处理器核心和 128 个芯粒，芯粒间缓存一致性通信延迟低于 100 ns。
+- 个人贡献：体系结构设计空间探索、高层级缓存设计、RTL 实现与功能验证。
 </div>
 </div>
 
@@ -172,8 +172,8 @@ Zhejiang Big Chip
 <div class='paper-box-text' markdown="1">
 
 Dadu-Eye Stereo Vision Chip
-- delivering efficient depth perception with a peak performance of 1 TOPS/W.
-- my contributions: algorithm & modeling, chip testing.
+- 实现高效的深度感知，峰值能效达到 1 TOPS/W。
+- 个人贡献：算法设计与建模、芯片测试。
 </div>
 </div>
 
@@ -183,8 +183,8 @@ Dadu-Eye Stereo Vision Chip
 - Language: Mandarin, Cantonese (my hometown is Guangdong), English
 
 # 💼 Internships
-- 2021 - 2026, Research Assistant at Center for Intelligent Computing Systems, National Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所-处理器全国重点实验室-智能计算机研究中心)
-- 2024 - 2026, SoC Designing Engineer at Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)
+- 2021 - 2026年，中国科学院计算技术研究所处理器全国重点实验室智能计算机研究中心，科研助理
+- 2024 - 2026年，北京市开源芯片研究院（BOSC），SoC 设计工程师
 # 🌍 Visitor Map
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=250&t=tt&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
