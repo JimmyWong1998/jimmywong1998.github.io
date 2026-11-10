@@ -107,3 +107,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 个人头像下方的姓名和简介居中 */
+.sidebar .author__content {
+    text-align: center;
+}
