@@ -7,7 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.language-switch {
+  text-align: right;
+  margin: 0 0 20px;
+  font-size: 14px;
+}
+.language-switch a {
+  color: #0066d6;
+  text-decoration: none;
+}
+.language-switch .active {
+  font-weight: 700;
+  color: #24292f;
+}
+</style>
 
+<div class="language-switch">
+  <span class="active">English</span>
+  &nbsp;|&nbsp;
+  <a href="{{ '/zh/' | relative_url }}">中文</a>
+</div>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
