@@ -34,7 +34,7 @@ and has 4 papers under review.
   - B.Eng in Electronic and Science Technology, GPA: 3.93/4.0, Ranking: Top 10%
 - 2018.09 - 2020.07, **University of Birmingham (UoB)**, Birmingham, United Kingdom
   - B.Eng in Electronic and Electrical Engineering (2+2 Joint Bachelor's Degree Program), GPA: 4.25/4.25, Ranking: First Class
-- 2020.09 - 2026 (now), **University of Science and Technology of China (USTC)**, Anhui, Hefei, China
+- 2020.09 - 2026.10, **University of Science and Technology of China (USTC)**, Anhui, Hefei, China
   - Ph.D. in Electronic and Science Technology, GPA: 3.88/4.3
 
 # 🔥 News (Related to my first-author publications)
