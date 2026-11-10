@@ -36,15 +36,15 @@ author_profile: true
 
 # ℹ️ About me
 
-Junpei Huang received my Ph.D. degree at the School of Microelectronics, University of Science and Technology of China (USTC), supervised by Prof. [Yinhe Han](https://scholar.google.com/citations?user=t40cM-4AAAAJ&hl=zh-CN&oi=sra). He works closely with Prof. [Ying Wang](https://scholar.google.com/citations?user=5LoFPSQAAAAJ&hl=zh-CN&oi=ao), Associate Prof. [Haobo Xu](https://ieeexplore.ieee.org/author/37087137171) and Associate Prof. [Yiming Gan](https://scholar.google.com/citations?user=d-1MZhIAAAAJ&hl=zh-CN&oi=ao). During his Ph.D. studies, he has conducted research at Center for Intelligent Computing Systems, National Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences (CICS@ICT, CAS) as a joint PhD student.
+黄俊培博士毕业于中国科学技术大学微电子学院，师从[韩银和教授](https://scholar.google.com/citations?user=t40cM-4AAAAJ&hl=zh-CN&oi=sra)，并与[王颖教授](https://scholar.google.com/citations?user=5LoFPSQAAAAJ&hl=zh-CN&oi=ao)、[徐昊博副研究员](https://ieeexplore.ieee.org/author/37087137171)和[甘一鸣副研究员](https://scholar.google.com/citations?user=d-1MZhIAAAAJ&hl=zh-CN&oi=ao)保持密切的科研合作。博士期间，他作为联合培养博士生，在中国科学院计算技术研究所处理器全国重点实验室智能计算机研究中心（CICS@ICT, CAS）开展科研工作。
 
-He has been deeply involved in the design and testing of the Dadu-Eye deep-learning edge processor, funded by the CAS Strategic Priority Research Program, as well as the design and validation of the “Zhejiang” Big Chip, supported by National Key Research and Development Program of China.
+他深度参与了中国科学院战略性先导科技专项支持的“大都灵眸”（Dadu-Eye）深度学习边缘处理器的设计与测试，以及国家重点研发计划支持的“浙江”大芯片的设计与验证工作。
 
-His research interest includes multi-chiplet memory architecture design, with an emphasis on cache coherence, IO chiplets, and scalable memory subsystems. He has published about 9 papers on chiplet designs and AI accelerators
+他的研究兴趣主要包括多芯粒存储体系结构设计，重点关注缓存一致性、I/O 芯粒以及可扩展存储子系统。目前，他已在芯粒系统和人工智能加速器相关领域发表约 9 篇学术论文
 <a href="https://scholar.google.com/citations?user=R6GxAr0AAAAJ&hl=zh-CN" target="_blank" rel="noopener" style="text-decoration:none;">
   📚
 </a>
-and has 4 papers under review.
+另有 4 篇论文正在审稿中。
 
 # 📖 Educations
 - 2016.09 - 2020.07, **University of Electronic Science and Technology of China (UESTC)**, Chengdu, Sichuan, China
