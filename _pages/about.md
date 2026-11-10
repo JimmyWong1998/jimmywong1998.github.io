@@ -64,7 +64,7 @@ and has 4 papers under review.
 - *2025.11*: &nbsp;🎉🎉 Gave an oral presentation of our paper FlexIO at ICCD 2025 in Dallas, Texas, USA.
 - *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
 
-# 📝 Recent Publications and Under-Review Papers
+# 📝 Publications
 <style>
 .publication-section{margin:30px 0}
 .publication-section h2{margin-bottom:20px}
