@@ -4,7 +4,27 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
+<style>
+.language-switch {
+  text-align: right;
+  margin: 0 0 20px;
+  font-size: 14px;
+}
+.language-switch a {
+  color: #0066d6;
+  text-decoration: none;
+}
+.language-switch .active {
+  font-weight: 700;
+  color: #24292f;
+}
+</style>
 
+<div class="language-switch">
+  <a href="{{ '/' | relative_url }}">English</a>
+  &nbsp;|&nbsp;
+  <span class="active">中文</span>
+</div>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -168,4 +188,3 @@ Dadu-Eye Stereo Vision Chip
 # 🌍 Visitor Map
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=250&t=tt&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-
