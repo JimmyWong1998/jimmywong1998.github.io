@@ -1,13 +1,35 @@
+
+{% if page.lang == 'zh' %}
+  {% assign nav_items = site.data.navigation_zh.main %}
+  {% assign home_label = "主页" %}
+  {% assign home_url = "/zh/#about-me" %}
+{% else %}
+  {% assign nav_items = site.data.navigation.main %}
+  {% assign home_label = "Homepage" %}
+  {% assign home_url = "/#about-me" %}
+{% endif %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="{{ home_url | relative_url }}">
+              {{ home_label }}
+            </a>
+          </li>
+
+          {% for link in nav_items %}
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}">
+                {{ link.title }}
+              </a>
+            </li>
           {% endfor %}
+
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
