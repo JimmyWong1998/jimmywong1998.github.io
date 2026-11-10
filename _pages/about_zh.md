@@ -117,7 +117,7 @@ author_profile: true
 
 ## 🧩 芯粒系统
 <p style="text-align:center; margin:10px 0;">
-  <img src="images/topic1.png" alt="Chiplet Systems"
+  <img src="/images/topic1.png" alt="Chiplet Systems"
        style="max-width:92%; height:auto; border-radius:10px;">
 </p>
 <p>
@@ -133,7 +133,7 @@ author_profile: true
 
 ## 🧠 AI加速器
 <p style="text-align:center; margin:10px 0;">
-  <img src="images/topic2.png" alt="AI Accelerators"
+  <img src="/images/topic2.png" alt="AI Accelerators"
        style="max-width:92%; height:auto; border-radius:10px;">
 </p>
 <p>
@@ -156,7 +156,7 @@ author_profile: true
 - 2025.11，在 ICCD 2025 国际会议上对录用论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》进行口头报告（Oral Presentation）。
 
 # 💻 芯片流片项目
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='images/prj1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CPU chiplet and IO chiplet</div><img src='images/图片2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Zhejiang Big Chip
@@ -165,7 +165,7 @@ Zhejiang Big Chip
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/prj2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dadu-Eye</div><img src='images/图片3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dadu-Eye Stereo Vision Chip
