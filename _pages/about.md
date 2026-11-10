@@ -80,7 +80,32 @@ and has 4 papers under review.
 <article class="paper-card"><div class="paper-title">YUUMI: A Plug-and-Play Integration Architecture for RISC-V CPU-Vector Cores</div><div class="paper-authors">Xiaotong Wei, Bowen Liu, Yiming Gan, Haobo Xu, <span class="me">Junpei Huang</span>, et al.</div><div class="paper-meta"><span class="paper-badge venue">ISCA 2027</span><span class="paper-badge review">Under Review</span></div></article>
 <article class="paper-card"><div class="paper-title">IRV: A Tightly-Coupled Architecture for Out-of-Order RISC-V CPUs and Vector Cores</div><div class="paper-authors">Xiaotong Wei, Yiming Gan, Haobo Xu, <span class="me">Junpei Huang</span>, et al.</div><div class="paper-meta"><span class="paper-badge venue">IEEE ESL 2026</span><span class="paper-badge revision">Major Revision</span></div></article>
 </section>
+<h2>📜 Patents</h2>
 
+<article class="paper-card">
+  <div class="paper-title">
+    <a href="https://eureka.patsnap.com/patent/CN121455899A"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color:inherit;text-decoration:none">
+      Silicon Photonic Network for Maintaining Inter-Chiplet Cache Coherence
+    </a>
+  </div>
+
+  <div class="paper-authors">
+    Co-inventor: <span class="me">Junpei Huang</span>, et al.
+  </div>
+
+  <div class="paper-meta">
+    <span class="paper-badge venue">CN121455899A</span>
+    <span class="paper-badge review">Published Application</span>
+    <span class="paper-detail">
+      China Invention Patent · Published February 3, 2026
+    </span>
+  </div>
+</article>
+
+</section>
 
 # 🔬 Research Topics
 
