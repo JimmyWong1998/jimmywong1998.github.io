@@ -45,11 +45,11 @@ author_profile: true
 
 # 📖 教育背景
 - 2016.09 - 2020.07, **电子科技大学（UESTC）**，中国四川成都
-  - 电子科学与技术专业，工学学士，GPA：3.93/4.0，专业排名：前10%
+  - 电子科学与技术专业，工学学士，GPA：3.93/4.0，专业排名：前10%，获得推免资格
 - 2018.09 - 2020.07, **伯明翰大学（UoB）**，英国伯明翰
   - 电子与电气工程专业，工学学士（2+2 联合培养双学位项目），GPA：4.25/4.25，学位等级：一等荣誉学位（First Class）
 - 2020.09 - 2026.10, **中国科学技术大学（USTC）**，中国安徽合肥
-  - 电子科学与技术专业，工学博士，GPA：3.88/4.3
+  - 电子科学与技术专业，工学博士，硕博连读，GPA：3.88/4.3
 
 # 🔥 科研新闻
 - *2026.08*: &nbsp;🎉🎉 论文《A Scalable I/O-Chiplet Architecture with Learning-Guided Monte Carlo Tree Search for Memory Controller Mapping》（FlexIO@ICCD 的扩展版本）收到 IEEE TCAD 的大修（Major Revision）决定。
