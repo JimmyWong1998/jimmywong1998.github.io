@@ -21,5 +21,8 @@ main:
   - title: "芯片流片项目"
     url: "/zh/#taped-out-chip-projects"
 
+  - title: "技能"
+    url: "/zh/#skills"
+    
   - title: "实习经历"
     url: "/zh/#internships"
