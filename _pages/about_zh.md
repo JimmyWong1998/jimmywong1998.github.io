@@ -47,19 +47,19 @@ author_profile: true
 另有 4 篇论文正在审稿中。
 
 # 📖 Educations
-- 2016.09 - 2020.07, **University of Electronic Science and Technology of China (UESTC)**, Chengdu, Sichuan, China
-  - B.Eng in Electronic and Science Technology, GPA: 3.93/4.0, Ranking: Top 10%
-- 2018.09 - 2020.07, **University of Birmingham (UoB)**, Birmingham, United Kingdom
-  - B.Eng in Electronic and Electrical Engineering (2+2 Joint Bachelor's Degree Program), GPA: 4.25/4.25, Ranking: First Class
-- 2020.09 - 2026.10, **University of Science and Technology of China (USTC)**, Anhui, Hefei, China
-  - Ph.D. in Electronic and Science Technology, GPA: 3.88/4.3
+- 2016.09 - 2020.07, **电子科技大学（UESTC）**，中国四川成都
+  - 电子科学与技术专业，工学学士，GPA：3.93/4.0，专业排名：前10%
+- 2018.09 - 2020.07, **伯明翰大学（UoB）**，英国伯明翰
+  - 电子与电气工程专业，工学学士（2+2 联合培养双学位项目），GPA：4.25/4.25，学位等级：一等荣誉学位（First Class）
+- 2020.09 - 2026.10, **中国科学技术大学（USTC）**，中国安徽合肥
+  - 电子科学与技术专业，工学博士，GPA：3.88/4.3
 
 # 🔥 News (Related to my first-author publications)
-- *2026.08*: &nbsp;🎉🎉A Scalable I/O-Chiplet Architecture with Learning-Guided Monte Carlo Tree Search for Memory Controller Mapping (extended from FlexIO@ICCD) received a major revision decision from IEEE TCAD.
-- *2026.07*: &nbsp;🎉🎉 HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory was accepted to MEJ 2026.
-- *2026.02*: &nbsp;🎉🎉 SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency was accepted to CAL 2026.
-- *2025.11*: &nbsp;🎉🎉 Gave an oral presentation of our paper FlexIO at ICCD 2025 in Dallas, Texas, USA.
-- *2025.08*: &nbsp;🎉🎉 FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping was accepted to ICCD 2025.
+- *2026.08*: &nbsp;🎉🎉 论文《A Scalable I/O-Chiplet Architecture with Learning-Guided Monte Carlo Tree Search for Memory Controller Mapping》（FlexIO@ICCD 的扩展版本）收到 IEEE TCAD 的大修（Major Revision）决定。
+- *2026.07*: &nbsp;🎉🎉 论文《HybridIO: Enabling Bandwidth-Aware Memory Access Offloading for Multi-Chiplet Systems with CXL-Based Hybrid Memory》被 MEJ 2026 接收。
+- *2026.02*: &nbsp;🎉🎉 论文《SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency》被 CAL 2026 接收。
+- *2025.11*: &nbsp;🎉🎉 赴美国得克萨斯州达拉斯参加 ICCD 2025 国际会议，并对论文 FlexIO 进行口头报告（Oral Presentation）。
+- *2025.08*: &nbsp;🎉🎉 论文《FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping》被 ICCD 2025 接收。
 
 # 📝 Recent Publications and Under-Review Papers
 <style>
@@ -124,7 +124,7 @@ author_profile: true
 </p>
 <p>
   <!-- TODO: 写 chiplet 的文字说明 -->
-  I work on multi-chiplet memory architectures, focusing on IO chiplets, memory controller mapping, and scalable interconnect/coherence support. I am also interestin at machine learning-driven optimization/design space exploration(DSE) for hardware.
+我主要从事多芯粒存储体系结构研究，重点关注 I/O 芯粒、内存控制器映射以及可扩展的片间互连与缓存一致性机制。同时，我也对机器学习驱动的硬件优化与设计空间探索（Design Space Exploration, DSE）感兴趣。
 </p>
 <ul>
   <li><!-- TODO --> Key directions: heuristic-based memory controller mapping / learning-based memory controller mapping / DDR- and CXL- hybrid memory system and scheduling / inter-chiplet prefetching </li>
@@ -140,7 +140,7 @@ author_profile: true
 </p>
 <p>
   <!-- TODO: 写 AI accelerator 的文字说明 -->
-  I explore efficient AI accelerator architectures, including dataflow/memory hierarchy co-design and system-level optimizations for emerging workloads.
+我致力于探索高效的人工智能加速器体系结构，包括数据流与存储层次结构的协同设计，以及面向新兴人工智能工作负载的系统级优化。
 </p>
 <ul>
   <li><!-- TODO --> Key directions: NPU/vision chips, throughput/W, dataflow</li>
@@ -148,11 +148,11 @@ author_profile: true
 </ul>
 
 # 🎖 Honors and Awards
-- 2021-2024 Postgraduate Scholarships of USTC
-- 2020 Outstanding Graduates of UESTC
-- 2018-2020, International Undergraduate Student scholarships of UoB
-- 2017 Excellent individual in UESTC
-- 2016-2017, 2017-2018 excellent student scholarships of UESTC
+- 2021-2024年，中国科学技术大学研究生学业奖学金
+- 2020年，电子科技大学优秀毕业生
+- 2018-2020年，伯明翰大学国际本科生奖学金
+- 2017年，电子科技大学优秀个人
+- 2016-2017年、2017-2018年，电子科技大学优秀学生奖学金
 
 # 💬 Invited Talks
 - 2025.11, Oral talk to present ICCD 2025 accepted paper FlexIO: A Scalable IO Chiplet Architecture with Flexible Memory Controller Mapping
